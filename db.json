@@ -15,9 +15,44 @@
   ],
   "albums": [
     {
-    "id": 10,
-    "title": "Hiking Trip",
-    "userId": 1
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Cotton Chicken",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Steel Towels",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Cotton Salad",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Practical Frozen Hat",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Wooden Chips",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Generic Plastic Salad",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Modern Rubber Chair",
+      "id": 17
     }
   ],
   "photos": []
